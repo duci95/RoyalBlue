@@ -1,0 +1,210 @@
+[
+    {
+        "naziv" : "Spajdermen",
+        "slika" :
+        
+            {
+               "src" : "images/filmovi/spiderman.jpg",
+               "alt" : "the-amazing-spiderman",
+               "width": "200",
+               "height" : "200",
+               "title" : "Spajdermen"
+            },
+        
+        "zanr" : "Naučna fantastika, akcija",
+        
+        "uloge" : 
+        [
+            {
+                "ime" : "Ema",
+                "prezime": "Stoun"
+            },
+            {
+                "ime" : "Endru",
+                "prezime": "Garfild"
+            },
+            {
+                "ime" : "Ris",
+                "prezime": "Ivans"
+            }
+        ]
+    },
+
+    {
+        "naziv" : "Igra",
+        "slika" :
+        
+            {
+               "src" : "images/filmovi/the-game.png",
+               "alt" : "the-game",
+               "width": "200",
+               "height" : "200",
+               "title" : "Igra"
+            },
+
+        "zanr" : "Triler, akcija",
+        
+        "uloge" : 
+        [
+            {
+                "ime" : "Majkl",
+                "prezime": "Daglas"
+            },
+            {
+                "ime" : "Šon",
+                "prezime": "Pen"
+            },
+            {
+                "ime" : "Džejms",
+                "prezime": "Rebhorn"
+            }
+        ]
+    },
+
+    {
+        "naziv" : "Kod sudbine",
+        "slika" :
+            {
+               "src": "images/filmovi/kod.jpg",
+               "alt" : "knowing",
+               "width": "200",
+               "height" : "200",
+               "title" : "Kod sudbine"
+            },
+
+        "zanr" : "Naučna fantastika",
+        "uloge" : 
+        [
+            {
+                "ime" : "Nikolas",
+                "prezime": "Kejdž"
+            },
+            {
+                "ime" : "Rouz",
+                "prezime": "Bern"
+            },
+            {
+                "ime" : "Lara",
+                "prezime": "Robinson"
+            }
+        ]
+    },    
+    {
+        "naziv" : "Plaćenici",
+        "slika" :
+        
+            {
+               "src" : "images/filmovi/the-expendables.jpg",
+               "alt" : "the-expandables",
+               "width": "200",
+               "height" : "200",
+               "title" : "Plaćenici"
+            },
+        "zanr" : "Akcioni-triler",
+        "uloge" : 
+        [
+            {
+                "ime" : "Silvester",
+                "prezime": "Stalone"
+            },
+            {
+                "ime" : "Dolf",
+                "prezime": "Lundgren"
+            },
+            {
+                "ime" : "Arnold",
+                "prezime": "Švarcneger"
+            }
+        ]
+    },
+
+    {
+        "naziv" : "Svemirski basket",
+        "slika" :
+        
+            {
+               "src" : "images/filmovi/space-jam.jpg",
+               "alt" : "space-jam",
+               "width": "200",
+               "height" : "200",
+               "title" : "Svemirski basket"
+            },
+
+        "zanr" : "Dečiji, sportski",
+        "uloge" : 
+        [
+            {
+                "ime" : "Majkl",
+                "prezime": "Džordan"
+            },
+            {
+                "ime" : "Bil",
+                "prezime": "Mari"
+            },
+            {
+                "ime" : "Vejn",
+                "prezime": "Najt"
+            }
+        ]
+    },
+
+    {
+        "naziv" : "Perl Harbor",
+        "slika" :
+        
+            {
+               "src" : "images/filmovi/pearl-harbor.jpg",
+               "alt" : "pearl-harbor",
+               "width": "200",
+               "height" : "200",
+               "title" : "Perl Harbor"
+            },
+
+        "zanr" : "Drama, akcija",
+        "uloge" : 
+        [
+            {
+                "ime" : "Ben",
+                "prezime": "Aflek"
+            },
+            {
+                "ime" : "Kejt",
+                "prezime": "Bekinsejl"
+            },
+            {
+                "ime" : "Dženifer",
+                "prezime": "Gardner"
+            }
+        ]
+    },
+    {
+        "naziv" : "Armagedon",
+        "slika" :
+        
+            {
+               "src" : "images/filmovi/armageddon.jpg",
+               "alt" : "armageddon",
+               "width": "200",
+               "height" : "200",
+               "title" : "Armagedon"
+            },
+        "zanr" : "Naučna fantastika, triler",
+        "uloge" : 
+        [
+            {
+                "ime" : "Brus",
+                "prezime": "Vilis"
+            },
+            {
+                "ime" : "Ben",
+                "prezime": "Aflek"
+            },
+            {
+                "ime" : "Liv",
+                "prezime": "Tajler"
+            }
+        ]
+    }
+
+    
+]

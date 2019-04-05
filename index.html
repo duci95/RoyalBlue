@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="Gledajte vaše omiljene serije i filmove od sada i u HD formatu"> 
+    <meta name="keywords" content="RoyaLLux, serije, filmovi, kontakt, o autoru">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+
+    <title>RoyaLLux</title>
+</head>
+<body>
+        <header>
+            <div id="header">
+            <div id="logo">
+                <a href="index.html"><img class="logo" src="images/logo.png" alt="logo" title="RoyaLLux logo"></a>
+            </div>
+            
+            <div id="nav">
+                <ul>
+                    <li><a href="index.html">Početna</a></li>
+                    <li><a href="serije.html">Serije</a></li>
+                    <li><a href="filmovi.html">Filmovi</a></li>
+                    <li><a href="kontakt.html">Kontakt</a></li>
+                    <li><a href="o-autoru.html">O autoru</a></li>
+                </ul>
+            </div>
+
+            <div id="formaDiv">
+                
+                <form action="#" method="post" id="forma1" name="imeForma">
+                    
+                    <input type="text" autofocus="autofocus" placeholder="Unesite korisničko ime" id="ime" name="imeTbt"/>
+                    
+                    <input type="password" placeholder="Unesite vašu šifru" id="sifra" name="sifraTbp"/>
+
+         	        <input type="button" value="Uloguj se" id="dugmeLog" onclick="login();" name="imeDugmeLog"/>
+
+                </form>
+
+            </div>
+            <div id="tekstForme">
+
+                <h1 class="log"></h1>
+                <h2 class="log"></h2>
+
+            </div>
+            </div>
+        </header>
+        <div class="cl"></div>
+    
+        <div id="box">
+           
+            <div id="filmovi" class="slajder">
+                <h2>Filmovi koje obavezno morate pogledati</h2>
+                <div class="slajder-slike">       
+                    
+                </div>
+            </div>
+            <div id="serije" class="slajder">
+                <h2>Serije koje obavezno morate pogledati</h2>
+                <div class="slajder-slike">
+                   
+				   
+                </div>
+            </div>
+        </div>
+    <div class="cl"></div>
+    <footer>
+            <h6 class="tekst-footer"> Design by Dušan Krsmanović  </h6>
+            <h6 class="tekst-footer"> Copyright &copy; 2018 Sva prava zadržana  </h6>
+            <h6 class="tekst-footer"><a href="dokumentacija.pdf">Dokumentacija</a></h6>
+    </footer>
+    <script src="jquery-3.3.1.min.js"></script>
+	<script src="jquery.cycle.all.ax.js"></script>
+    <script src="script.js"></script>
+    <script src="slider.js"></script>
+    
+    
+
+    <noscript>
+        <h6>Vaš browser ne podrzava JavuScript ili je to onemogućeno u podešavanjima. 
+            Molimo Vas obratite se sistemskom administratoru.</h6>
+    </noscript>
+
+    </body>
+    </html>

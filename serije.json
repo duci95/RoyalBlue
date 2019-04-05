@@ -1,0 +1,212 @@
+[
+    
+    {
+        "naziv" : "Kako sam upoznao vašu majku",
+        "slika" :
+        
+            {
+               "src" : "images/serije/himym.jpg",
+               "alt" : "how-i-met-your-mother",
+               "width": "200",
+               "height" : "200",
+               "title" : "Kako sam upoznao vašu majku"
+            },
+        
+        "zanr" : "Komedija",
+        
+        "uloge" : 
+        [
+            {
+                "ime" : "Kobi",
+                "prezime": "Smalders"
+            },
+            {
+                "ime" : "Džoš",
+                "prezime": "Radnor"
+            },
+            {
+                "ime" : "Džejson",
+                "prezime": "Sigel"
+            }
+        ]
+    },
+    {
+        "naziv" : "NCIS - Los Anđeles",
+        "slika" :
+        
+            {
+               "src" : "images/serije/ncis.jpg",
+               "alt" : "ncis",
+               "width": "200",
+               "height" : "200",
+               "title" : "NCIS"
+            },
+        
+        "zanr" : "Triler, akcija",
+        "uloge" : 
+        [
+            {
+                "ime" : "T.J.",
+                "prezime": "Kul"
+            },
+            {
+                "ime" : "Daniela",
+                "prezime": "Ruah"
+            },
+            {
+                "ime" : "Erik Kristijan",
+                "prezime": "Olsen"
+            }
+        ]
+    },
+
+    {
+        "naziv" : "Nulti sat",
+        "slika" :
+            {
+               "src": "images/serije/zero-hour.jpg",
+               "alt" : "zero-hour",
+               "width": "200",
+               "height" : "200",
+               "title" : "Nulti sat"
+            },
+        
+        "zanr" : "Naučna fantastika, akcija",
+        
+        "uloge" : 
+        [
+            {
+                "ime" : "Entoni ",
+                "prezime": "Edvards"
+            },
+            {
+                "ime" : "Karmen",
+                "prezime": "Ežogo"
+            },
+            {
+                "ime" : "Skot Majkl",
+                "prezime": "Foster"
+            }
+        ]
+    },    
+
+    {
+        "naziv" : "Smrtonosno oružje",
+        "slika" :
+        
+            {
+               "src" : "images/serije/lethal-weapon.jpg",
+               "alt" : "lethal-weapon",
+               "width": "200",
+               "height" : "200",
+               "title" : "Smrtonosno oružje"
+            },
+                
+        "zanr" : "Akcija, krimninalistički",
+       
+        "uloge" : 
+        [
+            {
+                "ime" : "Dejmon",
+                "prezime": "Vejans"
+            },
+            {
+                "ime" : "Klejn",
+                "prezime": "Kroford"
+            },
+            {
+                "ime" : "Džordana",
+                "prezime": "Bruster"
+            }
+        ]
+    },
+
+    {
+        "naziv" : "Smolvil",
+        "slika" :
+        
+            {
+               "src" : "images/serije/smallville.jpg",
+               "alt" : "smallville",
+               "width": "200",
+               "height" : "200",
+               "title" : "Smolvil"
+            },
+        "zanr" : "Naučna fantastika",
+        
+        "uloge" : 
+        [
+            {
+                "ime" : "Tom",
+                "prezime": "Veling"
+            },
+            {
+                "ime" : "Kristin",
+                "prezime": "Kruk"
+            },
+            {
+                "ime" : "Erika",
+                "prezime": "Durans"
+            }
+        ]
+    },
+
+    {
+        "naziv" : "Naplata",
+        "slika" :
+        
+            {
+               "src" : "images/serije/leverage.jpg",
+               "alt" : "leverage",
+               "width": "200",
+               "height" : "200",
+               "title" : "Naplata"
+            },
+        "zanr" : "Misterija, triler",
+        
+        "uloge" : 
+        [
+            {
+                "ime" : "Kristijan",
+                "prezime": "Kejn"
+            },
+            {
+                "ime" : "Đina",
+                "prezime": "Belman"
+            },
+            {
+                "ime" : "Bet",
+                "prezime": "Rijsgraf"
+            }
+        ]
+    },
+    {
+        "naziv" : "Ubice mog oca",
+        "slika" :
+        
+            {
+               "src" : "images/serije/ubice-mog-oca.jpg",
+               "alt" : "ubice",
+               "width": "200",
+               "height" : "200",
+               "title" : "Ubice mog oca"
+            },
+        "zanr" : "Akcija, krimninalistički",
+        
+        "uloge" : 
+        [
+            {
+                "ime" : "Vuk",
+                "prezime": "Kostić"
+            },
+            {
+                "ime" : "Nina",
+                "prezime": "Janković Dičić"
+            },
+            {
+                "ime" : "Katarina",
+                "prezime": "Radivojević"
+            }
+        ]
+    }
+]
